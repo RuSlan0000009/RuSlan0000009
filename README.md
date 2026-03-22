@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Ruslan. I am 22 years old. I live in the capital of the Far East, in the city of Vladivostok. I became interested in the IT field back in school, and at the age of 18 I enrolled at Vladivostok State University (VVSU) in the specialty 'Information Systems and Technologies'.
+My name is Ruslan. I am 23 years old. I live in the capital of the Far East, in the city of Vladivostok. I became interested in the IT field back in school, and at the age of 18 I enrolled at Vladivostok State University (VVSU) in the specialty 'Information Systems and Technologies'.
 <!--
 **RuSlan0000009/RuSlan0000009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
